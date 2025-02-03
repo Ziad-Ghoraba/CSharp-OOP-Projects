@@ -20,6 +20,6 @@ A console-based library management system where **librarians** can manage books 
 - `Librarian.cs` & `LibraryUser.cs` – Manage librarian and user functionalities.  
 
 📌 **Additional Resources:**  
-- **UML Diagram:** [`UML.drawio`](UML.drawio) – Editable UML diagram for the project.  
-- **UML Diagram (HTML):** [`UML.html`](UML.html) – Viewable version of the UML diagram.  
-- **User Stories:** [`User-Story.pdf`](User-Story.pdf) – Describes system requirements from a user's perspective.  
+- **UML Diagram:** [`Library-Management-System/UML.drawio`](Library-Management-System/UML.drawio) – Editable UML diagram for the project.  
+- **UML Diagram (HTML):** [`Library-Management-System/UML.html`](Library-Management-System/UML.html) – Viewable version of the UML diagram.  
+- **User Stories:** [`Library-Management-System/User-Story.pdf`](Library-Management-System/User-Story.pdf) – Describes system requirements from a user's perspective.  
