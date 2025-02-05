@@ -1,7 +1,7 @@
 # CSharp-OOP-Projects
 
 ## Overview
-This repository contains two C# projects that demonstrate Object-Oriented Programming (OOP) principles, including encapsulation, inheritance, and polymorphism. Each project showcases how OOP concepts can be applied to real-world applications.
+This repository contains three C# projects that demonstrate Object-Oriented Programming (OOP) principles, including encapsulation, inheritance, and polymorphism. Each project showcases how OOP concepts can be applied to real-world applications.
 
 ---
 
@@ -47,3 +47,61 @@ A console-based maze game where the player navigates a maze using arrow keys to 
 ### 📌 Additional Resources
 - **UML Diagram:** [`Maze-Game/UML.drawio`](Maze-Game/UML.drawio) – Editable UML diagram for the project.
 - **User Stories:** [`Maze-Game/User-Story.pdf`](Maze-Game/User-Story.pdf) – Describes system requirements from a player's perspective.
+
+---
+
+## 📂 File Analyzer
+### Description
+A console-based application that analyzes text files (`.txt`) and CSV files (`.csv`). It extracts useful information such as word count, character count, line count, and field count for CSV files.
+
+### Features
+- **TXT File Analysis:** Counts words, characters, and lines.
+- **CSV File Analysis:** Identifies the number of fields in each row.
+- **Extensible Design:** Supports adding new file types for analysis.
+
+### Files
+- `Program.cs` – Handles folder input and processes files.
+- `FileInfoExtensions.cs` – Provides extension methods to identify file types.
+- `AnalysisResults.cs` – Struct for storing analysis results.
+- `FileAnalyzer.cs` – Base class for analysis operations.
+- `IFileAnalysis.cs` – Interface for file analysis classes.
+- `TxtFileAnalyzer.cs` – Implements `.txt` file analysis.
+- `CSVFileAnalyzer.cs` – Implements `.csv` file analysis.
+
+### 📌 Additional Resources
+- **Sample Files:** [`File-Analyzer/SamplesFiles`](File-Analyzer/SamplesFiles) – Example files for testing.
+- **UML Diagram:** [`File-Analyzer/UML.drawio`](File-Analyzer/UML.drawio) – Editable UML diagram for the project.
+- **User Stories:** [`File-Analyzer/User-Story.pdf`](File-Analyzer/User-Story.pdf) – Describes system requirements from a user's perspective.
+
+---
+
+## 📌 Topics Covered
+This repository demonstrates several key Object-Oriented Programming (OOP) concepts and software development principles, including:
+
+- **Encapsulation:** Protecting data using classes, private fields, and access modifiers.
+- **Inheritance:** Creating specialized classes from base classes to promote code reusability.
+- **Polymorphism:** Implementing interfaces and method overriding to provide flexible functionality.
+- **Interfaces & Abstraction:** Defining contracts for class behavior to enforce consistency.
+- **File Handling:** Reading and analyzing files in different formats (`.txt`, `.csv`).
+- **Data Structures & Algorithms:** Implementing efficient data handling techniques in projects.
+- **Software Design:** Using UML diagrams and structured design methodologies.
+
+## 🎓 Learning Journey
+This repository is a result of my continuous learning in **.NET development and Object-Oriented Programming**.  
+Throughout my journey, I have built various projects to strengthen my understanding of **C#**, OOP principles, and software architecture. These projects were developed based on academic learning, self-study, and hands-on experience while working on real-world applications.
+
+By implementing these projects, I have gained:
+- **Practical experience in C# and the .NET ecosystem.**
+- **A deep understanding of OOP principles and their application.**
+- **Experience in designing and structuring maintainable, scalable code.**
+- **Hands-on experience in working with files, user interactions, and system modeling.**
+
+This repository serves as both a learning resource and a showcase of my journey in software development. I continuously seek to improve my skills and apply best practices in software engineering.
+
+---
+
+## 📬 Contact  
+If you have any questions, suggestions, or would like to collaborate, feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/ziad-ghoraba-developer/)**.
+
+
+
