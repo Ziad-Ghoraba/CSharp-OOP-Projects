@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3EFA6F-66FE-41A5-A45D-53F452B7F862}|FileAnalyzer\\FileAnalyzer.csproj|d:\\programming\\backend\\c#\\b\\projects\\file analyzer\\fileanalyzer\\fileanalyzer\\csvfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3EFA6F-66FE-41A5-A45D-53F452B7F862}|FileAnalyzer\\FileAnalyzer.csproj|solutionrelative:fileanalyzer\\csvfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3EFA6F-66FE-41A5-A45D-53F452B7F862}|FileAnalyzer\\FileAnalyzer.csproj|d:\\programming\\backend\\c#\\b\\projects\\file analyzer\\fileanalyzer\\fileanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3EFA6F-66FE-41A5-A45D-53F452B7F862}|FileAnalyzer\\FileAnalyzer.csproj|solutionrelative:fileanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3EFA6F-66FE-41A5-A45D-53F452B7F862}|FileAnalyzer\\FileAnalyzer.csproj|d:\\programming\\backend\\c#\\b\\projects\\file analyzer\\fileanalyzer\\fileanalyzer\\fileinfoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3EFA6F-66FE-41A5-A45D-53F452B7F862}|FileAnalyzer\\FileAnalyzer.csproj|solutionrelative:fileanalyzer\\fileinfoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3EFA6F-66FE-41A5-A45D-53F452B7F862}|FileAnalyzer\\FileAnalyzer.csproj|d:\\programming\\backend\\c#\\b\\projects\\file analyzer\\fileanalyzer\\fileanalyzer\\txtfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3EFA6F-66FE-41A5-A45D-53F452B7F862}|FileAnalyzer\\FileAnalyzer.csproj|solutionrelative:fileanalyzer\\txtfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3EFA6F-66FE-41A5-A45D-53F452B7F862}|FileAnalyzer\\FileAnalyzer.csproj|d:\\programming\\backend\\c#\\b\\projects\\file analyzer\\fileanalyzer\\fileanalyzer\\ifileanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3EFA6F-66FE-41A5-A45D-53F452B7F862}|FileAnalyzer\\FileAnalyzer.csproj|solutionrelative:fileanalyzer\\ifileanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3EFA6F-66FE-41A5-A45D-53F452B7F862}|FileAnalyzer\\FileAnalyzer.csproj|d:\\programming\\backend\\c#\\b\\projects\\file analyzer\\fileanalyzer\\fileanalyzer\\fileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3EFA6F-66FE-41A5-A45D-53F452B7F862}|FileAnalyzer\\FileAnalyzer.csproj|solutionrelative:fileanalyzer\\fileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3EFA6F-66FE-41A5-A45D-53F452B7F862}|FileAnalyzer\\FileAnalyzer.csproj|d:\\programming\\backend\\c#\\b\\projects\\file analyzer\\fileanalyzer\\fileanalyzer\\analysisresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3EFA6F-66FE-41A5-A45D-53F452B7F862}|FileAnalyzer\\FileAnalyzer.csproj|solutionrelative:fileanalyzer\\analysisresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\FileAnalyzer\\Program.cs",
+              "RelativeDocumentMoniker": "FileAnalyzer\\Program.cs",
+              "ToolTip": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\FileAnalyzer\\Program.cs",
+              "RelativeToolTip": "FileAnalyzer\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:16:43.806Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileInfoExtensions.cs",
+              "DocumentMoniker": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\FileAnalyzer\\FileInfoExtensions.cs",
+              "RelativeDocumentMoniker": "FileAnalyzer\\FileInfoExtensions.cs",
+              "ToolTip": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\FileAnalyzer\\FileInfoExtensions.cs",
+              "RelativeToolTip": "FileAnalyzer\\FileInfoExtensions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:58:59.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnalysisResults.cs",
+              "DocumentMoniker": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\FileAnalyzer\\AnalysisResults.cs",
+              "RelativeDocumentMoniker": "FileAnalyzer\\AnalysisResults.cs",
+              "ToolTip": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\FileAnalyzer\\AnalysisResults.cs",
+              "RelativeToolTip": "FileAnalyzer\\AnalysisResults.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:17:10.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileAnalyzer.cs",
+              "DocumentMoniker": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\FileAnalyzer\\FileAnalyzer.cs",
+              "RelativeDocumentMoniker": "FileAnalyzer\\FileAnalyzer.cs",
+              "ToolTip": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\FileAnalyzer\\FileAnalyzer.cs",
+              "RelativeToolTip": "FileAnalyzer\\FileAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:33:28.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFileAnalysis.cs",
+              "DocumentMoniker": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\FileAnalyzer\\IFileAnalysis.cs",
+              "RelativeDocumentMoniker": "FileAnalyzer\\IFileAnalysis.cs",
+              "ToolTip": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\FileAnalyzer\\IFileAnalysis.cs",
+              "RelativeToolTip": "FileAnalyzer\\IFileAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:21:49.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TxtFileAnalyzer.cs",
+              "DocumentMoniker": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\FileAnalyzer\\TxtFileAnalyzer.cs",
+              "RelativeDocumentMoniker": "FileAnalyzer\\TxtFileAnalyzer.cs",
+              "ToolTip": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\FileAnalyzer\\TxtFileAnalyzer.cs",
+              "RelativeToolTip": "FileAnalyzer\\TxtFileAnalyzer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:21:39.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSVFileAnalyzer.cs",
+              "DocumentMoniker": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\FileAnalyzer\\CSVFileAnalyzer.cs",
+              "RelativeDocumentMoniker": "FileAnalyzer\\CSVFileAnalyzer.cs",
+              "ToolTip": "D:\\Programming\\Backend\\C#\\B\\Projects\\File Analyzer\\FileAnalyzer\\FileAnalyzer\\CSVFileAnalyzer.cs",
+              "RelativeToolTip": "FileAnalyzer\\CSVFileAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:20:52.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
