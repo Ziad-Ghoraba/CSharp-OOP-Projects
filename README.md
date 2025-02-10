@@ -103,5 +103,5 @@ This repository serves as both a learning resource and a showcase of my journey 
 ## 📬 Contact  
 If you have any questions, suggestions, or would like to collaborate, feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/ziad-ghoraba-developer/)**.
 
-
-
+---
+**💡 Developed as learning projects to explore and implement Object-Oriented Programming (OOP) principles in C#**
